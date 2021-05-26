@@ -19,7 +19,7 @@ body {
     margin: 0 auto;
     box-shadow: 5px 9px 20px rgba(0, 0, 0, 0.15);
 }
-.sidebar {
+.sidebar{
     background: #0a2803;
     width: 370px;
     padding-top: 40px;
